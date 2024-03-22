@@ -1,4 +1,3 @@
 Why are there sometimes a lot of repeat temp values, and sometimes they vary from one row to the next?
 The same with dewpoint. ^
-What are the standard for wxcodes? When do they produce nans and what do the readouts mean?
 What is the meaning of 'Forecasted from 0 UTC'?
